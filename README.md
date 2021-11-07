@@ -1,0 +1,2 @@
+# Video-Summarization
+Summarizing news videos automatically allows us to quickly look out for the important patterns shown in the news. Generating a trailer of a movie. Moreover, the need for surveillance has increased significantly due to increase in the demand of security and highlights of sports video recordings automatically are some of the engrossing applications of video summarization.  It helps in efficient storage, quick browsing, and retrieval of large collections of video data without losing important aspects
